@@ -1,6 +1,6 @@
-# Your Project Name
+# LLOYD Assistant
 
-A brief description of what this project does and who it's for.
+A multimodal agent that uses livekit, deepgram and openai to chat with users in real-time.
 
 ## Installation
 
